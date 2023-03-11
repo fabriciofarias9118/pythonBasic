@@ -1,0 +1,24 @@
+#TIPOS DE NUMERO
+# int - long - float - complex
+
+#OPERADORES ARITMETICOS
+# + SOMA
+# - SUBTRAÇÃO
+# * MULTIPLICAÇÃO
+# / DIVISÃO
+# % RESTO DA DIVISÃO
+# ** POTENCIA
+
+#OPERADORES DE COMPARAÇÃO
+# <  MENOR QUE
+# <= MENOR OU IGUAL
+# >  MAIOR QUE
+# >= MAIOR OU IGUAL
+# == IGUAL
+# != DIFERENTE
+
+#OPRADORES LOGICOS
+# not NÃO
+# and E
+# or  OU
+
